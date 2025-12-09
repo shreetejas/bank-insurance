@@ -29,7 +29,7 @@ Steps Followed
 
 - Step 2: Opened Power Query Editor and enabled:
 
-Column Quality,
+    Column Quality,
 Column Distribution,
 Column Profile.
 

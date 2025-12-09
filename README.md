@@ -86,17 +86,17 @@ Company name, Tagline, Logo. Shapes for design consistency
 
 - Step 13: Created a calculated column for Age Grouping using DAX:
 
-= Table.AddColumn(#"Sorted Rows1", "Age Group", each 
+    = Table.AddColumn(#"Sorted Rows1", "Age Group", each 
 
-if [Age] <= 24 then "Young Adult" 
+    if [Age] <= 24 then "Young Adult" 
 
-else if [Age] >= 60 then "Adult" else "Elder")
+    else if [Age] >= 60 then "Adult" else "Elder")
 
 
 - Step 14: Published the report to Power BI Service.
 Insights
 
-fully interactive Insurance Analytics Dashboard was created. Key business insights include:
+    fully interactive Insurance Analytics Dashboard was created. Key business insights include:
 
 [1] Premium, Coverage & Claims Overview
 

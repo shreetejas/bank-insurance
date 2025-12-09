@@ -100,80 +100,80 @@ fully interactive Insurance Analytics Dashboard was created. Key business insigh
 
 [1] Premium, Coverage & Claims Overview
 
-Total Premium Amount: ₹5.98M
+- Total Premium Amount: ₹5.98M
 
-Total Coverage Amount: ₹600M
+- Total Coverage Amount: ₹600M
 
-Total Claim Amount: ₹16.9M
+- Total Claim Amount: ₹16.9M
 
-These KPIs help understand total revenue vs. risk exposure.
+  These KPIs help understand total revenue vs. risk exposure.
 
 [2] Claim Status Distribution
 
-Pending: 2.3K
+- Pending: 2.3K
 
-Settled: 3.4K
+- Settled: 3.4K
 
-Rejected: 4.4K
+- Rejected: 4.4K
 
-Rejected claims are the highest, indicating possible:
+  Rejected claims are the highest, indicating possible:
 
-documentation issues
+- documentation issues
 
-claim fraud
+- claim fraud
 
-customer dissatisfaction
+- customer dissatisfaction
 
-internal approval inefficiencies
+- internal approval inefficiencies
 
 [3] Policy Type Insights
-Premium Amount by Policy Type
+- Premium Amount by Policy Type
 
-Travel: Highest premium contributor
+- Travel: Highest premium contributor
 
-Health & Auto: Moderate revenue
+- Health & Auto: Moderate revenue
 
-Home & Life: Lowest premium generation
+- Home & Life: Lowest premium generation
 
-This helps identify top-performing policy segments.
+  This helps identify top-performing policy segments.
 
 [4] Claim Amount by Age Group
 
-Elder: 8.5M (Highest risk)
+- Elder: 8.5M (Highest risk)
 
-Young Adult: 6.7M
+- Young Adult: 6.7M
 
-Adult: 1.7M
+- Adult: 1.7M
 
-Older customers generate a significantly higher claim amount — crucial for pricing, risk scoring, and premium adjustments.
+  Older customers generate a significantly higher claim amount — crucial for pricing, risk scoring, and premium adjustments.
 
 [5] Gender-wise Policy Status
 
-Male Active Policies: 5.82K
+- Male Active Policies: 5.82K
 
-Female Active Policies: 4.19K
+- Female Active Policies: 4.19K
 
-This helps understand customer base composition.
+  This helps understand customer base composition.
 
 [6] Customer Feedback Insights
 
 Common issues from customer feedback table:
 
-Website/login issues
+- Website/login issues
 
-Billing disputes
+- Billing disputes
 
-Premium increase complaints
+- Premium increase complaints
 
-Claim process delays
+- Claim process delays
 
-Confusing policy terms
+- Confusing policy terms
 
-Lack of transparency
+- Lack of transparency
 
-Good staff behaviour & quick resolutions reported by some
+- Good staff behaviour & quick resolutions reported by some
 
-Feedback helps refine digital services & claims workflow.
+  Feedback helps refine digital services & claims workflow.
 
 Conclusion
 
@@ -197,12 +197,12 @@ demographic insights
 
 # Conclusion
 
-reducing claim rejection rates
+Reducing claim rejection rates
 
-improving customer support
+Improving customer support
 
-resolving billing/website issues
+Resolving billing/website issues
 
-strengthening fraud detection for high-risk age groups
+Strengthening fraud detection for high-risk age groups
 
 Overall, this dashboard supports better decision-making, risk management, and customer experience improvement.

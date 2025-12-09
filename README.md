@@ -45,17 +45,17 @@ Required cleaning was applied.
 
 - Step 7: Added Report Filters for:
 
-Policy Number
+  Policy Number
 
-Claim Number
+  Claim Number
 
-Customer ID
+  Customer ID
 
-Gender
+  Gender
 
-Policy Type
+  Policy Type
 
-Claim Status
+  Claim Status
 
 - Step 8: Added KPI Cards for:
 
@@ -175,20 +175,6 @@ Common issues from customer feedback table:
 
   Feedback helps refine digital services & claims workflow.
 
-Conclusion
-
-This dashboard provides a comprehensive overview of the insurance company’s operational and customer metrics.
-It helps decision-makers understand:
-
-which policy types generate more revenue
-
-which age groups create higher claims
-
-claim settlement efficiency
-
-customer satisfaction issues
-
-demographic insights
 
 # snapshot
 <img width="956" height="538" alt="Screenshot 2025-12-09 213542" src="https://github.com/user-attachments/assets/4bc1ec7b-3394-4244-ac41-15bc65bd37f4" />
@@ -197,12 +183,12 @@ demographic insights
 
 # Conclusion
 
-Reducing claim rejection rates
+- Reducing claim rejection rates
 
-Improving customer support
+- Improving customer support
 
-Resolving billing/website issues
+- Resolving billing/website issues
 
-Strengthening fraud detection for high-risk age groups
+- Strengthening fraud detection for high-risk age groups
 
-Overall, this dashboard supports better decision-making, risk management, and customer experience improvement.
+- Overall, this dashboard supports better decision-making, risk management, and customer experience improvement.

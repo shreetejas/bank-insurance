@@ -24,25 +24,26 @@ Since rejected and pending claims together form a significant portion, the compa
 Additionally, analysis shows that certain policy types have higher premium amounts but also higher claim amounts, indicating the need for improved risk management.
 
 Steps Followed
-Step 1: Loaded the dataset into Power BI Desktop (CSV/Excel format)
 
-Step 2: Opened Power Query Editor and enabled:
+- Step 1: Loaded the dataset into Power BI Desktop (CSV/Excel format)
+
+- Step 2: Opened Power Query Editor and enabled:
 
 Column Quality,
 Column Distribution,
 Column Profile.
 
-Step 3: Switched to “Column profiling based on entire dataset” for accurate data assessment.
+- Step 3: Switched to “Column profiling based on entire dataset” for accurate data assessment.
 
-Step 4: Identified Null/Blank values:
+- Step 4: Identified Null/Blank values:
 Mostly found in Claim Date and some optional fields.
 Required cleaning was applied.
 
-Step 5: Null values in key metrics like Premium Amount, Coverage Amount, Claim Amount were ignored while calculating averages and totals (as they represented missing or inapplicable data).
+- Step 5: Null values in key metrics like Premium Amount, Coverage Amount, Claim Amount were ignored while calculating averages and totals (as they represented missing or inapplicable data).
 
-Step 6: Applied a professional theme in the report view for standardized formatting.
+- Step 6: Applied a professional theme in the report view for standardized formatting.
 
-Step 7: Added Report Filters for:
+- Step 7: Added Report Filters for:
 
 Policy Number
 
@@ -56,7 +57,7 @@ Policy Type
 
 Claim Status
 
-Step 8: Added KPI Cards for:
+- Step 8: Added KPI Cards for:
 
 Total Premium Amount
 
@@ -64,7 +65,7 @@ Total Coverage Amount
 
 Total Claim Amount
 
-Step 9: Created bar charts and donut charts for:
+- Step 9: Created bar charts and donut charts for:
 
 Premium Amount by Policy Type
 
@@ -74,16 +75,16 @@ Claim Amount by Age Group
 
 Gender-wise Active/Inactive policies
 
-Step 10: Created a detailed table visual to display:
+- Step 10: Created a detailed table visual to display:
 
 Policy Number, CustomerID, Claim Number, Age, Gender, Coverage Amount, Premium Amount, Policy Dates, Policy Type, Claim Status, Claim Date.
 
-Step 11: Added a Customer Feedback Table and performed text analysis manually through summarization.
+- Step 11: Added a Customer Feedback Table and performed text analysis manually through summarization.
 
-Step 12: Inserted branding elements:
+- Step 12: Inserted branding elements:
 Company name, Tagline, Logo. Shapes for design consistency
 
-Step 13: Created a calculated column for Age Grouping using DAX:
+- Step 13: Created a calculated column for Age Grouping using DAX:
 
 = Table.AddColumn(#"Sorted Rows1", "Age Group", each 
 
@@ -92,7 +93,7 @@ if [Age] <= 24 then "Young Adult"
 else if [Age] >= 60 then "Adult" else "Elder")
 
 
-Step 15: Published the report to Power BI Service.
+- Step 14: Published the report to Power BI Service.
 Insights
 
 fully interactive Insurance Analytics Dashboard was created. Key business insights include:

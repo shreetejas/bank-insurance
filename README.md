@@ -189,7 +189,12 @@ customer satisfaction issues
 
 demographic insights
 
-# The company should focus on:
+# snapshot
+<img width="934" height="532" alt="Screenshot 2025-12-09 213701" src="https://github.com/user-attachments/assets/14430ce2-a517-49da-a02a-2b8cd0810543" />
+<img width="954" height="537" alt="Screenshot 2025-12-09 213608" src="https://github.com/user-attachments/assets/ff66e129-9669-4f55-92a2-127775bccb35" />
+<img width="956" height="538" alt="Screenshot 2025-12-09 213542" src="https://github.com/user-attachments/assets/4bc1ec7b-3394-4244-ac41-15bc65bd37f4" />
+
+# Conclusion
 
 reducing claim rejection rates
 
